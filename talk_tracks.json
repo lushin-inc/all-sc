@@ -1,0 +1,1361 @@
+[
+ {
+  "id": "hand-over-the-agenda",
+  "label": "Handing them the agenda",
+  "cat": "open",
+  "desc": "Inside the first three minutes, instead of opening with a company overview, the coach asks the prospect what they want out of the time. It costs one sentence and it converts a vendor presentation into the buyer's meeting, because whatever they name becomes the thing the rest of the call is measured against. It also produces discovery for free — most prospects answer with their whole situation rather than a topic list.",
+  "variants": "Aaron and Shad ask it warmly and often reuse a word the prospect just said; Rob usually offers a choice of who goes first rather than putting the prospect on the spot; Brian is the bluntest — 'what do you want to get out of this call' is the second line he speaks.",
+  "inst": [
+   {
+    "stem": "2025_01_23_BK_FirstTimeConversations_Prospect_Matt_Iconic_insurance_Founder_FTC",
+    "coach": "BK",
+    "company": "Iconic Insurance",
+    "t": "0:52",
+    "sec": 52,
+    "quote": "Well, what do you want to get out of this call? What are we working towards?",
+    "note": "Second line of the call."
+   },
+   {
+    "stem": "2024_01_03_BK_FirstTimeConversations_Sales1on1_Matt_Atkinson_CleanCore_NA",
+    "coach": "BK",
+    "company": "CleanCore",
+    "t": "0:43",
+    "sec": 43,
+    "quote": "So how did Michael set this up, and what are your expectations? What do you want to get out of this?",
+    "note": "A referred meeting, opening question."
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Taralu_Geo_Temps_FTC_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "2:40",
+    "sec": 160,
+    "quote": "Give me just a little background on yourself, and share with me what would you like to make sure we talk through and cover today.",
+    "note": "Background and agenda in one sentence."
+   },
+   {
+    "stem": "2024_08_15_ST_FirstTimeConversations_Prospect_Real_Fund_PG_Service_Group_NA",
+    "coach": "ST",
+    "company": "PG Service Group",
+    "t": "2:02",
+    "sec": 122,
+    "quote": "What are you both hoping that we figure out in today's conversation here?",
+    "note": "Asked of both buyers separately."
+   },
+   {
+    "stem": "2023_09_11_AP_StandardElectric_Prospect_Yes_No_Call_Pre",
+    "coach": "AP",
+    "company": "Standard Electric",
+    "t": "1:18",
+    "sec": 78,
+    "quote": "So to help your fun week remain fun, let's make this conversation productive for you. What would you like to make sure you get hammered up today, Tammy?",
+    "note": "Picks up her own words, 'fun week.'"
+   },
+   {
+    "stem": "2023_03_10_AP_Alro_Prospect_Amy_Steel_6y7m",
+    "coach": "AP",
+    "company": "PeopleReady",
+    "t": "0:54",
+    "sec": 54,
+    "quote": "So is there anything you'd like to talk or walk through so we can actually make a productive use of your time?",
+    "note": "Prospect had booked a product demo."
+   },
+   {
+    "stem": "2023_10_26_RL_FirstTimeConversations_Prospect_Intro_Robert_VH_Abra_Consulting_NA",
+    "coach": "RL",
+    "company": "Calgary VR/AR training firm",
+    "t": "1:36",
+    "sec": 96,
+    "quote": "I didn't know if there was anything in particular that you wanted to cover today. Normally I get these calls booked for a variety of reasons. Sometimes it makes sense that you go first, sometimes I go first. I don't know which would be easier for you.",
+    "note": "Offers a choice of who starts."
+   }
+  ]
+ },
+ {
+  "id": "both-ways-out",
+  "label": "Naming both outcomes before you start",
+  "cat": "fit",
+  "desc": "The up-front contract with the no built into it: the coach states, before any questions, that this call ends one of two ways — we keep talking, or we agree it isn't a fit — and gets a verbal yes to that. It takes fifteen to thirty seconds and it buys two things at once: permission to ask hard questions, and the right to disqualify later without it feeling like a rejection. A prospect who agreed to the exit up front will usually take it honestly instead of going dark.",
+  "variants": "Shad's 'no harm, no foul' is the house phrase and he says it on almost every call, usually with 'does that sound fair?' attached; Rob frames it as making it easy for both of them to see it isn't working; Aaron turns it into a joke — a 38-second conversation, a laugh and a handshake.",
+  "inst": [
+   {
+    "stem": "2025_01_24_AP_PublicMediaApps_Prospect_Peter_Colin_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Public Media Apps",
+    "t": "0:07",
+    "sec": 7,
+    "quote": "Once we bring clarity to the data, I'll just look at you guys and ask if we can help. But if the answer is no, no harm, no foul. I'll bring a crap ton of clarity to you. If it's yes, let's lock arms and go.",
+    "note": "Said before any assessment data is shown."
+   },
+   {
+    "stem": "2026_02_17_AP_CNH_Prospect_Morgan_James_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "CNH Industrial",
+    "t": "1:21",
+    "sec": 81,
+    "quote": "Whole point of this conversation was Morgan was going to confirm with James if he's crazy or not. And if you're crazy, we can have a 38-second conversation and laugh and then shake hands and part friends. If you weren't crazy, then we can chat about what we're going to do next.",
+    "note": "Opening line on a deal already won."
+   },
+   {
+    "stem": "2024_08_09_ST_FirstTimeConversations_Prospect_Alejandro_MRN_Network_Webinar_Foll",
+    "coach": "ST",
+    "company": "MRI Network (Atlanta)",
+    "t": "0:35",
+    "sec": 35,
+    "quote": "Here we just do some background intros, and then obviously whatever you'd like to talk about from the webinar, and then figure out, do we talk from there? Or what do we do? Does that sound good?",
+    "note": "Fifteen seconds, including the exit."
+   },
+   {
+    "stem": "2024_03_04_ST_FirstTimeConversations_CLevel1on1Prospect_Sales_Call_Wes_CEO_Steel",
+    "coach": "ST",
+    "company": "Steele Benefits",
+    "t": "3:10",
+    "sec": 190,
+    "quote": "We just figure out from there, should we talk further. And if not, no harm, no foul. That sound good?",
+    "note": "Gets an explicit 'sounds good.'"
+   },
+   {
+    "stem": "2024_05_14_ST_FirstTimeConversations_Prospect_Renne_Marquee_Staffing_Convo_NA",
+    "coach": "ST",
+    "company": "Marquee Staffing",
+    "t": "3:57",
+    "sec": 237,
+    "quote": "Usually at the end of the conversation we take one or two paths. Either — appreciate it, not a fit for us, not right now, that's fine, no harm no foul. Or — yes, we want to take the next step.",
+    "note": "Twenty seconds, before any questions."
+   },
+   {
+    "stem": "2024_09_24_RL_FirstTimeConversations_Prospect_Rob_Keating_Dave_Gold_Eagle_NA",
+    "coach": "RL",
+    "company": "Gold Eagle (HVAC / home services)",
+    "t": "2:30",
+    "sec": 150,
+    "quote": "We want to get to the point where it's easy for us to figure out — hey, this just doesn't make sense to keep talking, or here's a little step that we could take together when it does make sense.",
+    "note": "A new decision maker is in the room."
+   },
+   {
+    "stem": "2024_03_04_ST_FirstTimeConversations_CLevel1on1Prospect_Sales_Call_Wes_CEO_Steel",
+    "coach": "ST",
+    "company": "Steele Benefits",
+    "t": "20:53",
+    "sec": 1253,
+    "quote": "I don't want us to linger. At the end of that we're going to know — does it make sense to take another step together? And if it doesn't, it's not the right fit, no harm, no foul. I'd rather know that early.",
+    "note": "Matching a CEO who wants fast answers."
+   }
+  ]
+ },
+ {
+  "id": "why-now",
+  "label": "Why you took this call, and why now",
+  "cat": "open",
+  "desc": "Rather than accepting the meeting at face value, the coach asks what made the prospect agree to talk, and then — separately — why this is live right now. The first question gets motive, which is better data than a problem list. The second gets urgency, and it is often the question that produces the admission the whole engagement rests on. It works just as well on a referral, where the easy assumption is that the referrer already created the need.",
+  "variants": "Aaron asks it twice in the same call, once early for motive and again later for urgency, and he uses the prospect's first name in the third person to soften it. Rob attaches it to the referral source. Shad asks it of people who may have no reason at all, and treats a weak answer as the answer.",
+  "inst": [
+   {
+    "stem": "2023_10_30_AP_ProTurf_Prospect_Graham_Pro_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Pro Turf",
+    "t": "1:32",
+    "sec": 92,
+    "quote": "I guess what even compelled Graham to even get to this point, to even have a conversation in the first place?",
+    "note": "Prospect offered a company tour instead."
+   },
+   {
+    "stem": "2023_10_30_AP_ProTurf_Prospect_Graham_Pro_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Pro Turf",
+    "t": "13:07",
+    "sec": 787,
+    "quote": "Why now? Why is this on Graham's brain so much right now, though?",
+    "note": "Twelve minutes later, same call."
+   },
+   {
+    "stem": "2024_08_29_RL_FirstTimeConversations_Prospect_Keating_Gold_Eagle_FTC_NA",
+    "coach": "RL",
+    "company": "Gold Eagle (residential/commercial HVAC)",
+    "t": "4:54",
+    "sec": 294,
+    "quote": "We work with Olga, and she sent over that introduction email. So I didn't know if it would make sense if you just wanted to tell me what's going on and what made it make sense to you to talk to someone like me. Is that okay?",
+    "note": "Credits the referrer, then asks."
+   },
+   {
+    "stem": "2024_08_05_ST_FirstTimeConversations_Prospect_Scott_Mattison_Corp_Leader_NA",
+    "coach": "ST",
+    "company": "Mattison",
+    "t": "5:27",
+    "sec": 327,
+    "quote": "So, Andy connected us. So what made you say, yeah, I'll jump on this conversation here?",
+    "note": "Weak answer ends the call honestly."
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Maureen_GW_Berkheimer_NA",
+    "coach": "ST",
+    "company": "GW Berkheimer",
+    "t": "10:30",
+    "sec": 630,
+    "quote": "So what's driving this now? Like you said, you've had some kind of one-off training over the years. What's driving, hey, now we want to take a look at this and see about getting some help?",
+    "note": "Prospect has had one-off training before."
+   },
+   {
+    "stem": "2024_08_15_RL_FirstTimeConversations_Prospect_Austin_Reese_Wagon_Wheel_FTC_NA",
+    "coach": "RL",
+    "company": "Wagon Wheel",
+    "t": "1:47",
+    "sec": 107,
+    "quote": "Why would you be doing something so different from that? Why would you be interested in that?",
+    "note": "Asked of a candidate, not a buyer."
+   },
+   {
+    "stem": "2024_09_09_RL_FirstTimeConversations_Prospect_Tyler_FTC_NA",
+    "coach": "RL",
+    "company": "Baseball hitting academy",
+    "t": "5:49",
+    "sec": 349,
+    "quote": "I would go with, hey, Tyler, what made you put the lead into Facebook in the first place? What made you even want to opt into this conversation you're having with me?",
+    "note": "Coaching a rep on the opening question."
+   }
+  ]
+ },
+ {
+  "id": "hand-it-back",
+  "label": "Handing the question back to them",
+  "cat": "pain",
+  "desc": "The prospect asks the coach to diagnose something — is this normal, why are deals stuck, what am I doing wrong — and the coach refuses to answer and asks them instead. The answer is almost always better than anything the coach could have supplied, and more importantly the prospect now owns it. It also works as a reflex after any long explanation: stop, ask what they are thinking, and let the silence do the work.",
+  "variants": "This is Shad's signature move and he runs it repeatedly in a single call, often asking 'why do you think' two or three times on the same story until the answer stops being blame. Rob's version is softer — he gives his read first and then hands the verdict back for confirmation.",
+  "inst": [
+   {
+    "stem": "2024_05_14_ST_FirstTimeConversations_Prospect_Renne_Marquee_Staffing_Convo_NA",
+    "coach": "ST",
+    "company": "Marquee Staffing",
+    "t": "9:36",
+    "sec": 576,
+    "quote": "Well, why do you think they're stuck?",
+    "note": "She asked him whether stuck deals are normal."
+   },
+   {
+    "stem": "2024_04_05_ST_FirstTimeConversations_Prospect_Taralu_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "9:10",
+    "sec": 550,
+    "quote": "So why do you think more of those clients aren't having you help them right now?",
+    "note": "Churn, not acquisition."
+   },
+   {
+    "stem": "2024_08_08_ST_FirstTimeConversations_Prospect_Sendra_Hillgroup_Webinar_Follow_Up",
+    "coach": "ST",
+    "company": "The Hill Group",
+    "t": "16:53",
+    "sec": 1013,
+    "quote": "So why do you think they don't take action then, or they go, well, we're going to talk to a bunch of different people and then drag this out?",
+    "note": "Her answer: 'don't ask that question.'"
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Taralu_Geo_Temps_FTC_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "7:52",
+    "sec": 472,
+    "quote": "What do you say to that when you hear that?",
+    "note": "Makes her perform her own rebuttal."
+   },
+   {
+    "stem": "2024_07_22_ST_FirstTimeConversations_Prospect_Emily_Atria_Consulting_FTC_NA",
+    "coach": "ST",
+    "company": "Atria Consulting",
+    "t": "11:37",
+    "sec": 697,
+    "quote": "It sounds like you're doing a lot and you're targeting. It sounds like this may be some technique and mindset pieces. I don't know — what do you think?",
+    "note": "Lays the framework over her, then asks."
+   },
+   {
+    "stem": "2024_09_03_ST_FirstTimeConversations_Prospect_Matt_Operation_Hired_Hiring_Help_N",
+    "coach": "ST",
+    "company": "Operation Hired (veteran-owned staffing and recruiting)",
+    "t": "11:59",
+    "sec": 719,
+    "quote": "What's going through your head?",
+    "note": "After two minutes that got only 'okay.'"
+   },
+   {
+    "stem": "2024_08_26_RL_FirstTimeConversations_Prospect_DJ_1_100_advisors_FTC_NA",
+    "coach": "RL",
+    "company": "Clayton's HOA software company",
+    "t": "10:44",
+    "sec": 644,
+    "quote": "I don't know if that aligns with your observation of what's going on with the sales.",
+    "note": "After a long diagnostic monologue."
+   }
+  ]
+ },
+ {
+  "id": "size-the-gap",
+  "label": "Making them put a number on it",
+  "cat": "pain",
+  "desc": "Nothing gets priced off an adjective. When a prospect says 'a lot' or 'we could be doing better,' the coach converts it into current state, target state and a deadline — in dollars where possible. The point is not the number's accuracy; it is that the prospect said it out loud, which is what makes the cost of the engagement arguable later. Asking permission to be unfair ('take a wild stab') gets a figure out of people who genuinely have not done the math.",
+  "variants": "Rob is the most systematic — he asks the three-part version (what is it now, what should it be, by when) and then stress-tests the answer in his own favor. Aaron gets there with a story or a joke about guessing. Shad usually frames it forward, as market opportunity rather than shortfall.",
+  "inst": [
+   {
+    "stem": "2024_04_04_RL_FirstTimeConversations_Prospect_Sales_Call_Murray_Allan_NA",
+    "coach": "RL",
+    "company": "Roadway data-collection firm",
+    "t": "14:08",
+    "sec": 848,
+    "quote": "What is it now? Where should it be? And what's the timeline that you wanted to get there?",
+    "note": "Current, target and deadline in one breath."
+   },
+   {
+    "stem": "2023_11_20_RL_Brightstar_Prospect_Loren_SalesCall_Pre",
+    "coach": "RL",
+    "company": "Brightstar",
+    "t": "7:46",
+    "sec": 466,
+    "quote": "And when you say a lot, do you ever think of that in terms of dollars, percentage of quota? How would you articulate a lot or measure a lot?",
+    "note": "Converting 'a lot' into dollars."
+   },
+   {
+    "stem": "2024_08_29_RL_FirstTimeConversations_Prospect_Keating_Gold_Eagle_FTC_NA",
+    "coach": "RL",
+    "company": "Gold Eagle (residential/commercial HVAC)",
+    "t": "9:56",
+    "sec": 596,
+    "quote": "And what did you hope or expect that to be?",
+    "note": "Turns 18% into a 32-point shortfall."
+   },
+   {
+    "stem": "2024_05_29_RL_FirstTimeConversations_Prospect_Evan_Reese_Ovyl_Studio_Sales_NA",
+    "coach": "RL",
+    "company": "Ovyl",
+    "t": "9:09",
+    "sec": 549,
+    "quote": "If there's a gun to your head right now, what would you say? It's an unfair question. If you said 150 to 600,000 — you can give me a crazy unfair range, that's fine. I just want to know.",
+    "note": "Makes the unfairness of the question explicit."
+   },
+   {
+    "stem": "2023_10_30_AP_ProTurf_Prospect_Graham_Pro_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Pro Turf",
+    "t": "23:41",
+    "sec": 1421,
+    "quote": "How much business do you think is out there that you guys aren't getting that you should be — dollar wise or percentage, whatever you want?",
+    "note": "Answer: easily double the business."
+   },
+   {
+    "stem": "2024_08_08_ST_FirstTimeConversations_Prospect_Carlos_Real_Fund_FTC_NA",
+    "coach": "ST",
+    "company": "PG Service Group",
+    "t": "11:25",
+    "sec": 685,
+    "quote": "If you look over the next couple of years, what does the opportunity in the market look like in terms of sales?",
+    "note": "Market size instead of shortfall."
+   },
+   {
+    "stem": "2026_02_28_AP_CNH_Prospect_Morgan_James_Follow_Up_Conversation_Pre",
+    "coach": "AP",
+    "company": "CNH Industrial",
+    "t": "9:26",
+    "sec": 566,
+    "quote": "And if you were to lick your finger and take a wild stab, what percent of all the sellers in the field do you think are two years or less?",
+    "note": "Thirty seconds after 'I don't know.'"
+   }
+  ]
+ },
+ {
+  "id": "why-that-for-you",
+  "label": "Pushing past the business reason to the personal one",
+  "cat": "pain",
+  "desc": "The prospect gives the company answer — we need to double, the board wants 400% — and the coach asks why that, and keeps asking until the answer is about the person rather than the plan. Everything useful on these calls arrives after this question: the debt, the legacy worry, the thing they are trying to prove. It is also the cheapest commitment test there is, because a target nobody can explain is a target nobody will spend to hit.",
+  "variants": "Shad is the most persistent — he will ask a bare 'why' three times on the same answer and sit through the pause. Rob asks it once, framed as why it matters that this is happening, and then moves to consequences rather than motive.",
+  "inst": [
+   {
+    "stem": "2024_03_04_ST_FirstTimeConversations_CLevel1on1Prospect_Sales_Call_Wes_CEO_Steel",
+    "coach": "ST",
+    "company": "Steele Benefits",
+    "t": "15:07",
+    "sec": 907,
+    "quote": "Why 400%?",
+    "note": "Two words, after a ten-year plan."
+   },
+   {
+    "stem": "2024_03_04_ST_FirstTimeConversations_CLevel1on1Prospect_Sales_Call_Wes_CEO_Steel",
+    "coach": "ST",
+    "company": "Steele Benefits",
+    "t": "14:24",
+    "sec": 864,
+    "quote": "Why is this so important for you to get figured out?",
+    "note": "The question that produced the plan."
+   },
+   {
+    "stem": "2024_05_14_ST_FirstTimeConversations_Prospect_Renne_Marquee_Staffing_Convo_NA",
+    "coach": "ST",
+    "company": "Marquee Staffing",
+    "t": "24:44",
+    "sec": 1484,
+    "quote": "Why that for you?",
+    "note": "Third ask; she finally says why."
+   },
+   {
+    "stem": "2024_08_15_ST_FirstTimeConversations_Prospect_Real_Fund_PG_Service_Group_NA",
+    "coach": "ST",
+    "company": "PG Service Group",
+    "t": "9:47",
+    "sec": 587,
+    "quote": "And if you get there, personally for you, what's different when you get there to 5 million with this company?",
+    "note": "Company number to the owner's reason."
+   },
+   {
+    "stem": "2024_04_04_RL_FirstTimeConversations_Prospect_Sales_Call_Murray_Allan_NA",
+    "coach": "RL",
+    "company": "Roadway data-collection firm",
+    "t": "13:41",
+    "sec": 821,
+    "quote": "Why does it matter that you grow in Florida faster than you are?",
+    "note": "The pivot from facts to stakes."
+   },
+   {
+    "stem": "2024_04_05_ST_FirstTimeConversations_Prospect_Taralu_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "19:47",
+    "sec": 1187,
+    "quote": "Why you sell the temp side. We need to double the business. Why?",
+    "note": "A bare 'why' after a long answer."
+   },
+   {
+    "stem": "2024_11_11_RL_Polygon_Prospect_Alex_Bree_Rob_Assessment_Review_1y2m",
+    "coach": "RL",
+    "company": "Polygon",
+    "t": "38:41",
+    "sec": 2321,
+    "quote": "I want people to name a number and then back up why that's important. They say 200,000 and I say, how'd you come up with that? Well, it's more than I've ever made. Give me a better reason than that.",
+    "note": "Applied to a comp-plan question."
+   }
+  ]
+ },
+ {
+  "id": "ask-before-you-swing",
+  "label": "Asking permission before the hard part",
+  "cat": "human",
+  "desc": "Four to eight words bought before saying the uncomfortable thing: can I make a suggestion, can I shoot you straight, can I be candid, would you mind if I keep asking questions. The prospect almost always says yes, and the thing that follows is heard as something they invited rather than something that was done to them. It is the cheapest move in this library and it shows up before nearly every disqualification and every unasked-for recommendation in the corpus.",
+  "variants": "Rob's is the plainest ('can I shoot you straight'). Shad asks for a license to keep interrogating so the questioning reads as diligence. Aaron dresses it up — a turd in the punch bowl, a pinky promise on a two-minute tangent — which gets him a hearing for worse news than the others deliver.",
+  "inst": [
+   {
+    "stem": "2024_04_04_RL_FirstTimeConversations_Prospect_Sales_Call_Murray_Allan_NA",
+    "coach": "RL",
+    "company": "Roadway data-collection firm",
+    "t": "16:14",
+    "sec": 974,
+    "quote": "Can I shoot you straight, Murray? Is that okay?",
+    "note": "Six words, then ninety seconds of truth."
+   },
+   {
+    "stem": "2023_09_11_AP_StandardElectric_Prospect_Yes_No_Call_Pre",
+    "coach": "AP",
+    "company": "Standard Electric",
+    "t": "9:17",
+    "sec": 557,
+    "quote": "Can I make a suggestion here, and you can tell me if I'm way off base?",
+    "note": "Converts a pitch into an invitation."
+   },
+   {
+    "stem": "2024_03_04_ST_FirstTimeConversations_CLevel1on1Prospect_Sales_Call_Wes_CEO_Steel",
+    "coach": "ST",
+    "company": "Steele Benefits",
+    "t": "19:46",
+    "sec": 1186,
+    "quote": "Okay, can I make a suggestion here?",
+    "note": "Five words; Wes says 'sure.'"
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Taralu_Geo_Temps_FTC_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "10:03",
+    "sec": 603,
+    "quote": "I'm going to keep asking questions so I can really understand it before I can share on how we can help. Is that okay?",
+    "note": "Permission to keep digging."
+   },
+   {
+    "stem": "2026_02_13_AP_FirstTimeConversations_Prospect_Todd_Wuestenberg_Haverkamp_Group_O",
+    "coach": "AP",
+    "company": "Haverkamp Group",
+    "t": "11:37",
+    "sec": 697,
+    "quote": "Can I put a little turd in your punch bowl? I don't want you to taste it. I want you to smell it.",
+    "note": "Todd: 'let's hear it, let's hear it.'"
+   },
+   {
+    "stem": "2024_09_13_RL_FirstTimeConversations_Prospect_Stan_Ramco_Supply_FTC_NA",
+    "coach": "RL",
+    "company": "Ramco",
+    "t": "24:20",
+    "sec": 1460,
+    "quote": "I don't want to pick the scab again, but can we finish this conversation?",
+    "note": "Reopening a subject already papered over."
+   },
+   {
+    "stem": "2025_07_10_AP_FischerHomes_Prospect_Emily_First_Time_Conversation_VP_1y6m",
+    "coach": "AP",
+    "company": "Fischer Homes",
+    "t": "40:17",
+    "sec": 2417,
+    "quote": "If I open up a can of worms for two minutes, you pinky promise that we won't go longer than two minutes on it?",
+    "note": "A hard-stop call, two-minute tangent."
+   }
+  ]
+ },
+ {
+  "id": "beat-them-to-it",
+  "label": "Saying the objection before they can",
+  "cat": "obj",
+  "desc": "The coach names the predictable pushback — the price, the industry's usual complaint about the product, the reason this fails — before the prospect has a chance to raise it. Said first, the objection carries no energy and the prospect has nothing to defend; said second, it is a fight. The coaches also teach this move explicitly to clients, which makes these clips doubly useful: you get the technique and the explanation of why it works in the same passage.",
+  "variants": "Shad teaches the mechanism out loud ('defusing a bomb', 'the reason I say you probably don't is because human nature is to correct'). Rob just does it, usually by stating his own number or his own failure mode and leaving it there. Aaron buries it inside a justification so it reads as reasoning rather than defense.",
+  "inst": [
+   {
+    "stem": "2024_08_09_ST_FirstTimeConversations_Prospect_Alejandro_MRN_Network_Webinar_Foll",
+    "coach": "ST",
+    "company": "MRI Network (Atlanta)",
+    "t": "6:51",
+    "sec": 411,
+    "quote": "One of the things you can do is to beat them to that. You put the objection out there before they get it. So it takes the energy out of it, and then also tells them, hey, I'm used to hearing that.",
+    "note": "Taught in three sentences, then demonstrated."
+   },
+   {
+    "stem": "2024_08_08_ST_FirstTimeConversations_Prospect_Eleanor_MRN_Network_Webinar_Follow",
+    "coach": "ST",
+    "company": "MRINetwork (Boston)",
+    "t": "10:07",
+    "sec": 607,
+    "quote": "I call it beating to the punch, or I call it diffusing a bomb. Best way to diffuse a bomb — before it goes off. Let me get ahead of it and just bring it up before we get into that situation.",
+    "note": "Defusing the comp-inflation conversation."
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Horizon_Staffing_Sales_Challenges",
+    "coach": "ST",
+    "company": "Horizon Staffing — a staffing and temporary-labor firm working the Savannah and Atlanta markets; attendees came out of Shad's ASA webinars",
+    "t": "6:51",
+    "sec": 411,
+    "quote": "So how I might approach that is I might go: okay, well, there's probably not a reason, Laura, that you'd want to talk to another company. Like, for example, you probably don't have any challenges with people not showing up.",
+    "note": "The negative reverse, built from her own example."
+   },
+   {
+    "stem": "2024_11_11_RL_FirstTimeConversations_Prospect_Debra_CEO_Rushane_HR_Mgr_NA",
+    "coach": "RL",
+    "company": "Caribbean HR Solutions",
+    "t": "6:47",
+    "sec": 407,
+    "quote": "Most folks in that sort of industry don't like the Objective Management Group assessment because it screens out such a significant portion of applicants that sometimes they find that to be burdensome or hindering.",
+    "note": "Leads with why her industry hates it."
+   },
+   {
+    "stem": "2024_05_03_RL_Brightstar_Prospect_Jonathon_FTC_Rob_0y5m",
+    "coach": "RL",
+    "company": "Brightstar",
+    "t": "23:29",
+    "sec": 1409,
+    "quote": "I think the number that we got to with the team assessment was like $9,500. So part of it was like, man, do we want to put that much?",
+    "note": "Voices the client's own price hesitation."
+   },
+   {
+    "stem": "2024_09_24_RL_FirstTimeConversations_Prospect_Rob_Keating_Dave_Gold_Eagle_NA",
+    "coach": "RL",
+    "company": "Gold Eagle (HVAC / home services)",
+    "t": "8:12",
+    "sec": 492,
+    "quote": "When we fail, especially early — we've been doing this for a while — it's usually not you. It's not that the content is bad, it's that we couldn't create stickiness. And either I wasn't clear about what it takes up front to create stickiness, or the people that I'm working with just aren't doing what they need to do.",
+    "note": "Pre-frames failure before any commitment exists."
+   },
+   {
+    "stem": "2023_09_11_AP_StandardElectric_Prospect_Yes_No_Call_Pre",
+    "coach": "AP",
+    "company": "Standard Electric",
+    "t": "10:41",
+    "sec": 641,
+    "quote": "And all we do is slow down up front to ultimately get the results faster.",
+    "note": "Pre-handles 'why add a step?'"
+   }
+  ]
+ },
+ {
+  "id": "not-your-plan",
+  "label": "Disagreeing with the plan they walked in with",
+  "cat": "obj",
+  "desc": "The prospect arrives having already decided the answer — hire a sales manager, train the reps, redo the comp plan, split the role — and the coach tells them flatly it will not work, then replaces it with a reason rather than a product. The disagreement has to land early, while it is still abstract, and it has to be followed immediately by something the prospect can take to their own leadership. Done right it reads as expertise; the tell is that the prospect keeps talking afterward.",
+  "variants": "Brian contradicts the hardest, including correcting an author the prospect was quoting, and backs it with a first-hand story. Rob takes the blame off the person ('it's not their fault, it's human nature'). Shad disagrees and immediately offers the replacement in the next sentence. Aaron declines the easy consulting answer and redirects to what he can actually fix.",
+  "inst": [
+   {
+    "stem": "2024_05_14_ST_FirstTimeConversations_Prospect_Renne_Marquee_Staffing_Convo_NA",
+    "coach": "ST",
+    "company": "Marquee Staffing",
+    "t": "28:05",
+    "sec": 1685,
+    "quote": "Before you were to even go out and hire a sales manager, you've got to have the right pieces in place for that sales manager to be effective. Ten years of doing this — it's a rare bird you find that wants to come in and build that for you.",
+    "note": "She wanted to hire a sales manager."
+   },
+   {
+    "stem": "2024_09_03_ST_FirstTimeConversations_Prospect_Matt_Operation_Hired_Hiring_Help_N",
+    "coach": "ST",
+    "company": "Operation Hired (veteran-owned staffing and recruiting)",
+    "t": "14:26",
+    "sec": 866,
+    "quote": "You can go out and hunt for those folks. I'm going to tell you from experience, they're not going to want to come in and finalize the process and figure out where the problems are and fix it. It's a very rare salesperson that comes in and wants to do that.",
+    "note": "Kills the premise of the request."
+   },
+   {
+    "stem": "2025_01_23_BK_FirstTimeConversations_Prospect_Matt_Iconic_insurance_Founder_FTC",
+    "coach": "BK",
+    "company": "Iconic Insurance",
+    "t": "23:07",
+    "sec": 1387,
+    "quote": "That is a marketing strategy. It is a marketing strategy. Where Marcus is not correct is — it is not a sales strategy.",
+    "note": "Corrects the prospect's favourite book."
+   },
+   {
+    "stem": "2024_01_03_BK_FirstTimeConversations_Sales1on1_Matt_Atkinson_CleanCore_NA",
+    "coach": "BK",
+    "company": "CleanCore",
+    "t": "14:11",
+    "sec": 851,
+    "quote": "The key to that being successful is that you only have two for a little while. The urge of scaling is we need to have ten, fifteen as fast as possible. But what you do with two is find out what works, learn from it, make mistakes, build some structure around it.",
+    "note": "Against the client's scaling instinct."
+   },
+   {
+    "stem": "2024_08_14_RL_FirstTimeConversations_Prospect_Meghan_Knuckle_Puck_Media_NA",
+    "coach": "RL",
+    "company": "Knuckle Puck Media (SEO and PPC agency)",
+    "t": "15:48",
+    "sec": 948,
+    "quote": "The thing that you haven't said out loud yet that you might want to think about is that I hate it when my clients split the sales role, because sales, I would argue, is just more challenging. There's all this rejection, there's all this social rejection.",
+    "note": "Names the structural problem she circled."
+   },
+   {
+    "stem": "2025_03_04_RL_FirstTimeConversations_Prospect_Rob_Tony_Artisan_Buildconstruct_FT",
+    "coach": "RL",
+    "company": "Artisan Buildconstruct",
+    "t": "41:37",
+    "sec": 2497,
+    "quote": "I'm never going to shut up about prioritizing capabilities over experience.",
+    "note": "Client has already committed money."
+   },
+   {
+    "stem": "2024_08_09_RL_FirstTimeConversations_Prospect_Evan_Oyvl_io_FTC_Nashville_NA",
+    "coach": "RL",
+    "company": "OYVL",
+    "t": "37:37",
+    "sec": 2257,
+    "quote": "Get the stereotype of what a good salesperson is out of your head. And since you guys have succeeded, you went from zero to 4 million, and you say, I like to have sales conversations. That is evidence that you might not need this person.",
+    "note": "Talks a founder out of a hire."
+   },
+   {
+    "stem": "2025_01_24_AP_PublicMediaApps_Prospect_Peter_Colin_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Public Media Apps",
+    "t": "29:16",
+    "sec": 1756,
+    "quote": "I believe we're also talking about the wrong end of the problem. Blame process first, then people. I'd be careful of changing comp first until process, motivation, all that other stuff holds true — and then you can look at comp.",
+    "note": "Pete asked for a comp plan."
+   }
+  ]
+ },
+ {
+  "id": "argue-against-yourself",
+  "label": "Arguing against your own sale",
+  "cat": "fit",
+  "desc": "The coach says out loud why this might not be worth buying: the tool does not do the thing you need, your problem is operations not sales, you are already doing fine, don't do it at all. It is the most credibility-dense move in the corpus, and it is nearly always followed by the prospect either conceding honestly or arguing the deal back to life themselves. The requirement is that it be specific — a named limit, not modesty.",
+  "variants": "Aaron disqualifies his own product by feature and by timing, sometimes ninety seconds into the overview. Rob names his own reservation about the deal and makes the prospect answer it. Shad takes the whole opportunity away in a sentence and then keeps giving advice for free.",
+  "inst": [
+   {
+    "stem": "2023_03_10_AP_Alro_Prospect_Amy_Steel_6y7m",
+    "coach": "AP",
+    "company": "PeopleReady",
+    "t": "8:47",
+    "sec": 527,
+    "quote": "So that's where if you were looking for an all encompassing tool that would help from an operations side or an ops manager side — sorry, Amy, OMG is not going to be the way to go.",
+    "note": "Ninety seconds into his own overview."
+   },
+   {
+    "stem": "2024_04_04_RL_FirstTimeConversations_Prospect_Sales_Call_Murray_Allan_NA",
+    "coach": "RL",
+    "company": "Roadway data-collection firm",
+    "t": "16:20",
+    "sec": 980,
+    "quote": "The thing that I haven't figured out yet, so I'll just be as transparent as I can be, is that you guys are doing pretty well. You told me the growth happens sort of without intent. It's going to happen anyway. And the number in Florida that you're behind isn't that sizable of a number.",
+    "note": "Names his reservation about the deal."
+   },
+   {
+    "stem": "2024_08_05_ST_FirstTimeConversations_Prospect_Scott_Mattison_Corp_Leader_NA",
+    "coach": "ST",
+    "company": "Mattison",
+    "t": "13:35",
+    "sec": 815,
+    "quote": "It sounds like the team's doing pretty well already, and focusing on sales doesn't sound like it's a top priority right now.",
+    "note": "Takes the opportunity away; Scott concedes."
+   },
+   {
+    "stem": "2024_04_05_ST_FirstTimeConversations_Prospect_Taralu_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "26:52",
+    "sec": 1612,
+    "quote": "Can I be pretty candid here? Honest? It sounds like more of the challenge here for both of you is it's more of an operations fulfillment than it is a sales piece.",
+    "note": "Tells them they have a different problem."
+   },
+   {
+    "stem": "2024_08_09_RL_FirstTimeConversations_Prospect_Evan_Oyvl_io_FTC_Nashville_NA",
+    "coach": "RL",
+    "company": "OYVL",
+    "t": "16:12",
+    "sec": 972,
+    "quote": "If you have a thing that's working but you've only got the dial turned to five out of 100, then it's like, cool, why would we hunt?",
+    "note": "Talks the prospect out of hunting."
+   },
+   {
+    "stem": "2024_11_25_RL_FirstTimeConversations_Prospect_Damion_Austin_Carribean_HR_Solutio",
+    "coach": "RL",
+    "company": "Caribbean HR Solutions",
+    "t": "14:29",
+    "sec": 869,
+    "quote": "I think that I'm pretty good at telling you here's what it'll tell you, here's what it doesn't tell you, here's where it actually doesn't help. So don't count on it to do these things over here.",
+    "note": "Volunteers where the tool fails."
+   },
+   {
+    "stem": "2026_02_13_AP_FirstTimeConversations_Prospect_Todd_Wuestenberg_Haverkamp_Group_O",
+    "coach": "AP",
+    "company": "Haverkamp Group",
+    "t": "14:32",
+    "sec": 872,
+    "quote": "Because if you don't do that, I'll say just don't do it. I'm being dead serious. It'll be a waste of money.",
+    "note": "Said to a buyer who already agreed."
+   }
+  ]
+ },
+ {
+  "id": "diagnose-first",
+  "label": "Lab work before treatment",
+  "cat": "diff",
+  "desc": "Asked what they will actually do, or asked for a price, the coach answers with sequence instead: we find out what is wrong before we prescribe. It is delivered as a medical metaphor almost every time — lab work, X-ray, sniffles versus sickness, Pepto versus surgery — which is what makes it survive the objection that it adds a step. The hidden benefit is that it sells a small, cheap first commitment instead of a programme.",
+  "variants": "Aaron and Shad both reach for the doctor's office; Aaron's is 'lab work' and 'we're not doing surgeries if we only need Pepto,' Shad's is the sneeze-versus-sickness line he uses to refuse to price. Brian runs the same analogy from the other side, as a lesson about how reps should sell. Rob states it as a bare principle about committed versus uncommitted people.",
+  "inst": [
+   {
+    "stem": "2023_07_19_AP_KesiManagement_Prospect_Austin_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Kesi Management",
+    "t": "25:49",
+    "sec": 1549,
+    "quote": "So we're going to do the lab work first, find out if we need bandaids or Pepto-Bismol or surgeries.",
+    "note": "The assessment framed in one metaphor."
+   },
+   {
+    "stem": "2024_11_27_AP_PublicMediaApps_Prospect_Colin_Manager_Revenue_Operations_First_Pr",
+    "coach": "AP",
+    "company": "Public Media Apps",
+    "t": "49:57",
+    "sec": 2997,
+    "quote": "So we're not doing surgeries if we only need some Pepto Bismol.",
+    "note": "Answers 'what will you sell us?'"
+   },
+   {
+    "stem": "2024_08_08_ST_FirstTimeConversations_Prospect_Carlos_Real_Fund_FTC_NA",
+    "coach": "ST",
+    "company": "PG Service Group",
+    "t": "22:55",
+    "sec": 1375,
+    "quote": "Sometimes my clients have a sales sneeze or the sniffles — a few little things we can adjust. Sometimes it's a full-blown sickness we've got to work on.",
+    "note": "Used to refuse a price question."
+   },
+   {
+    "stem": "2024_08_21_ST_FirstTimeConversations_Prospect_Amy_Keystone_Coop_FTC_NA",
+    "coach": "ST",
+    "company": "Keystone Cooperative",
+    "t": "19:32",
+    "sec": 1172,
+    "quote": "A lot of times what an organization in my space might do is they go, okay, great, let's just assign some training to go after those things. Problem is, we don't know what's causing folks not to be able to do those things.",
+    "note": "Why assigning training first fails."
+   },
+   {
+    "stem": "2024_01_03_BK_FirstTimeConversations_Sales1on1_Matt_Atkinson_CleanCore_NA",
+    "coach": "BK",
+    "company": "CleanCore",
+    "t": "21:53",
+    "sec": 1313,
+    "quote": "If you went into your doctor for the first time and the doctor said, let me tell you how good I am, let me tell you all the chemistry I know — you'd be like, oh my gosh. But instead you walk into the doctor's office and they go, what's wrong? They have to be so good at diagnosis that you as the patient go, they diagnosed me right, I'll take the pill. I don't even have to know what the pill is.",
+    "note": "Taught as how reps should sell."
+   },
+   {
+    "stem": "2024_09_04_RL_FirstTimeConversations_Prospect_Evan_Reese_NA",
+    "coach": "RL",
+    "company": "Ovyl",
+    "t": "23:13",
+    "sec": 1393,
+    "quote": "I know that your curiosities and where you want to start has more to do with infrastructure. We're going to give you the sales X-ray first, though, just to give you a sense of where you're at from a skillset and competency standpoint, and what might be the most important things to focus on.",
+    "note": "Overrides the client's preferred starting point."
+   },
+   {
+    "stem": "2024_09_24_RL_FirstTimeConversations_Prospect_Rob_Keating_Dave_Gold_Eagle_NA",
+    "coach": "RL",
+    "company": "Gold Eagle (HVAC / home services)",
+    "t": "28:54",
+    "sec": 1734,
+    "quote": "You teach committed people how to ask better questions, they're going to go out and ask better questions. You teach uncommitted people how to ask better questions, you might not get anything out of them.",
+    "note": "Two sentences a buyer can repeat."
+   },
+   {
+    "stem": "2024_05_14_ST_FirstTimeConversations_Prospect_Renne_Marquee_Staffing_Convo_NA",
+    "coach": "ST",
+    "company": "Marquee Staffing",
+    "t": "27:44",
+    "sec": 1664,
+    "quote": "Find out if they can do it, or wonder if they can.",
+    "note": "The evaluation as the obvious next move."
+   }
+  ]
+ },
+ {
+  "id": "will-before-skill",
+  "label": "Will before skill",
+  "cat": "diff",
+  "desc": "The separation the whole Lushin argument rests on: whether someone can sell and whether they will do the uncomfortable things are different questions, and training only moves one of them. Coaches plant it early, in the prospect's own vocabulary, long before the assessment is proposed — so that when the assessment arrives it answers a question the prospect has already started asking. The strongest versions make the distinction concrete with a person the prospect knows.",
+  "variants": "Aaron plants the word 'guts' conversationally and later teaches desire versus commitment with a story about his own son's homework. Rob states it as a flat rule and attaches it to the iceberg image. Shad turns it into a motivation question about the prospect's own veterans.",
+  "inst": [
+   {
+    "stem": "2023_10_30_AP_ProTurf_Prospect_Graham_Pro_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Pro Turf",
+    "t": "9:08",
+    "sec": 548,
+    "quote": "Capable in terms of don't have the guts to go there, or what?",
+    "note": "Plants 'guts' twenty minutes before the pitch."
+   },
+   {
+    "stem": "2023_09_11_AP_StandardElectric_Prospect_Yes_No_Call_Pre",
+    "coach": "AP",
+    "company": "Standard Electric",
+    "t": "11:32",
+    "sec": 692,
+    "quote": "Most quote-unquote sales training companies believe everything's about skills, and unfortunately it's not.",
+    "note": "Sets up strengths versus technique."
+   },
+   {
+    "stem": "2024_11_11_RL_FirstTimeConversations_Prospect_Debra_CEO_Rushane_HR_Mgr_NA",
+    "coach": "RL",
+    "company": "Caribbean HR Solutions",
+    "t": "12:44",
+    "sec": 764,
+    "quote": "The light bulb that I'm going to turn on for my clients is that if they can hunt, if they can ask great questions, if they can sell value, it's pretty useless if they're not committed, if they don't have a high degree of desire to succeed in sales, and if they don't accept responsibility for their outcomes.",
+    "note": "The light bulb he turns on for clients."
+   },
+   {
+    "stem": "2024_08_29_RL_FirstTimeConversations_Prospect_Keating_Gold_Eagle_FTC_NA",
+    "coach": "RL",
+    "company": "Gold Eagle (residential/commercial HVAC)",
+    "t": "24:24",
+    "sec": 1464,
+    "quote": "What did you say earlier? Oh, I struggled to differentiate — is it give a shit, or is it sales tactics and competencies? That's an important question. There's will and there's skill, and you could develop skill all day long, but if the will's absent, you tend to be spinning wheels.",
+    "note": "Uses the prospect's own throwaway line."
+   },
+   {
+    "stem": "2025_07_10_AP_FischerHomes_Prospect_Emily_First_Time_Conversation_VP_1y6m",
+    "coach": "AP",
+    "company": "Fischer Homes",
+    "t": "9:25",
+    "sec": 565,
+    "quote": "Overrides a sales percentile. That's like, I'm a souped-up Corvette, but I don't want to get it dirty.",
+    "note": "Finishing her sentence about a commitment score."
+   },
+   {
+    "stem": "2025_07_10_AP_FischerHomes_Prospect_Emily_First_Time_Conversation_VP_1y6m",
+    "coach": "AP",
+    "company": "Fischer Homes",
+    "t": "16:34",
+    "sec": 994,
+    "quote": "That's desire. Desire is, I want to be successful from a sales side. Commitment is: will I do the uncomfortable things I need to do to get to where I want to go.",
+    "note": "She kept collapsing the two."
+   },
+   {
+    "stem": "2024_11_11_RL_Polygon_Prospect_Alex_Bree_Rob_Assessment_Review_1y2m",
+    "coach": "RL",
+    "company": "Polygon",
+    "t": "8:32",
+    "sec": 512,
+    "quote": "It's really challenging to teach somebody that's not committed to become committed, because that comes from places within and requires a certain openness. If you didn't bring it to the dance, I don't know that I could help you find it.",
+    "note": "Why a weak-tactics candidate is still hireable."
+   },
+   {
+    "stem": "2024_08_21_ST_FirstTimeConversations_Prospect_Amy_Keystone_Coop_FTC_NA",
+    "coach": "ST",
+    "company": "Keystone Cooperative",
+    "t": "11:22",
+    "sec": 682,
+    "quote": "Do you believe they got the — are they motivated to go out there and be the hunters that you guys are looking for?",
+    "note": "Moves training onto motivation."
+   }
+  ]
+ },
+ {
+  "id": "who-else-says-yes",
+  "label": "Finding out who else has to say yes",
+  "cat": "process",
+  "desc": "Before building anything around an enthusiastic buyer, the coach checks whether the other people — partners, the executive team, dad, the owner, the users — have the same appetite. The question is usually about appetite rather than authority, which is what makes it answerable honestly, and the answers in this corpus are consistently uncomfortable: no they don't, he's part of the problem, this isn't at the top of his list.",
+  "variants": "Aaron asks the most dangerous version of it and asks it early, before there is a deal to lose. Rob tends to offer two concrete futures and let the prospect pick which one is true. Brian reduces it to who will say 'do that' and will not let the answer stay vague.",
+  "inst": [
+   {
+    "stem": "2023_10_30_AP_ProTurf_Prospect_Graham_Pro_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Pro Turf",
+    "t": "15:35",
+    "sec": 935,
+    "quote": "Does the rest of the executive leadership team have the same appetite as you do?",
+    "note": "Answer: 'No, they don't.'"
+   },
+   {
+    "stem": "2023_07_19_AP_KesiManagement_Prospect_Austin_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Kesi Management",
+    "t": "10:37",
+    "sec": 637,
+    "quote": "You mentioned a little bit earlier, Austin — do you believe your other two partners in crime have the appetite to sharpen their swords as much as you do?",
+    "note": "The buyer is in; the users may not be."
+   },
+   {
+    "stem": "2023_09_11_AP_StandardElectric_Prospect_Yes_No_Call_Pre",
+    "coach": "AP",
+    "company": "Standard Electric",
+    "t": "15:18",
+    "sec": 918,
+    "quote": "Who's all sitting at that table? ... Tammy brings her go-to, Susie brings her go-to, and Bob brings his go-to?",
+    "note": "Two questions get the whole decision table."
+   },
+   {
+    "stem": "2023_10_05_RL_FirstTimeConversations_Prospect_Intro_Call_Joe_Beck_10_NA",
+    "coach": "RL",
+    "company": "Joe Beck's technical products company",
+    "t": "15:05",
+    "sec": 905,
+    "quote": "Do you want to invite your partner, or is that just still you and me?",
+    "note": "One question, decision process answered."
+   },
+   {
+    "stem": "2023_10_26_RL_FirstTimeConversations_Prospect_Intro_Robert_VH_Abra_Consulting_NA",
+    "coach": "RL",
+    "company": "Calgary VR/AR training firm",
+    "t": "10:14",
+    "sec": 614,
+    "quote": "Is it: you and I talk, and once you come to believe I maybe have a chance at helping you, then you bring in the other people? Or is it you and I talk, and if we work together it would be just you and I?",
+    "note": "Two concrete futures, pick one."
+   },
+   {
+    "stem": "2024_07_22_ST_FirstTimeConversations_Prospect_Emily_Atria_Consulting_FTC_NA",
+    "coach": "ST",
+    "company": "Atria Consulting",
+    "t": "15:13",
+    "sec": 913,
+    "quote": "So, that being said, what's the owner's take on all this?",
+    "note": "Thirteen minutes in; she isn't the buyer."
+   },
+   {
+    "stem": "2025_01_10_BK_FirstTimeConversations_CLevel1on1_Robert_Big_Wave_Group_Partner_NA",
+    "coach": "BK",
+    "company": "Big Wave Group",
+    "t": "16:02",
+    "sec": 962,
+    "quote": "There has to be participation enough to say yeah, do that, do that. Who is that? Is that you?",
+    "note": "Short, direct, unavoidable."
+   },
+   {
+    "stem": "2024_11_27_AP_PublicMediaApps_Prospect_Colin_Manager_Revenue_Operations_First_Pr",
+    "coach": "AP",
+    "company": "Public Media Apps",
+    "t": "23:16",
+    "sec": 1396,
+    "quote": "Does Pete think the same way you do on this?",
+    "note": "Checks whether the champion's view is the company's."
+   }
+  ]
+ },
+ {
+  "id": "in-the-room",
+  "label": "Getting in the room instead of sending a document",
+  "cat": "process",
+  "desc": "When the next step would naturally be a proposal or some literature, the coach asks for a conversation with the people who decide instead. The argument is that a document cannot answer questions and the champion will be selling on their own behalf without help. It is asked as a suggestion with a 'does that make sense' attached, and it reshapes the second meeting from a presentation into a joint agenda-setting session.",
+  "variants": "Rob insists the agenda for that meeting be built together rather than brought. Shad proposes the three-way early, often before he has met the real buyer at all. Aaron is the only one who refuses a proposal outright, and he does it by narrating his own sales process to the prospect as the lesson.",
+  "inst": [
+   {
+    "stem": "2024_04_04_RL_FirstTimeConversations_Prospect_Sales_Call_Murray_Allan_NA",
+    "coach": "RL",
+    "company": "Roadway data-collection firm",
+    "t": "41:00",
+    "sec": 2460,
+    "quote": "Could you bring me in, not to that meeting, but can we just have a conversation with the people involved in making the decision? I think that's usually easiest.",
+    "note": "Avoids being sold on his behalf."
+   },
+   {
+    "stem": "2024_11_25_RL_FirstTimeConversations_Prospect_Damion_Austin_Carribean_HR_Solutio",
+    "coach": "RL",
+    "company": "Caribbean HR Solutions",
+    "t": "10:40",
+    "sec": 640,
+    "quote": "Why don't the three of us find a way to get together probably next week, and we could all get in the same room and get agreement on what we need to cover so you guys get what you need to make the decision that's best for you.",
+    "note": "Never offers to send materials."
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Maureen_GW_Berkheimer_NA",
+    "coach": "ST",
+    "company": "GW Berkheimer",
+    "t": "12:15",
+    "sec": 735,
+    "quote": "It probably would make sense for you, me and the marketing director to have a conversation. Just better understand where you're at, where you're wanting to get to and what you're looking for and why. Does that sound like a good next step from here, or what do you think?",
+    "note": "Asks for the buyer he hasn't met."
+   },
+   {
+    "stem": "2024_08_21_ST_FirstTimeConversations_Prospect_Amy_Keystone_Coop_FTC_NA",
+    "coach": "ST",
+    "company": "Keystone Cooperative",
+    "t": "18:26",
+    "sec": 1106,
+    "quote": "Well, do you think it makes sense for you, me and him to meet and talk further and just better understand here's where you're at, where you want to get to, and I would be able to better tell you here's what we could help and what that looks like?",
+    "note": "Tries to close for it at eighteen minutes."
+   },
+   {
+    "stem": "2025_01_24_AP_PublicMediaApps_Prospect_Peter_Colin_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Public Media Apps",
+    "t": "38:12",
+    "sec": 2292,
+    "quote": "Pete, do you know why you were in Colin and I's second conversation? Because he did the legwork on the first one. And if Colin said 'Aaron, why don't you put a proposal together' — I'd go, no, you silly goose. If you want to keep talking, get Pete in the next conversation.",
+    "note": "The prospect is standing inside the example."
+   }
+  ]
+ },
+ {
+  "id": "flat-number",
+  "label": "Saying the number flat and stopping",
+  "cat": "money",
+  "desc": "When the price comes out, it comes out bare: the figure, no preamble, no justification, no bundling language, and then silence. Several of these land far earlier in the call than a proposal process would allow — six minutes in, or unasked, alongside the logistics — which frees the rest of the conversation to be about value rather than suspense. Listen to the delivery as much as the number; the absence of apology is the whole technique.",
+  "variants": "Rob puts the number in early and lets the objection sit ('yeah'), then corrects the prospect's arithmetic rather than defending the fee. Aaron slips it in beside the travel plans so it lands as a fact. Shad answers the direct question directly, and is the only one who then asks out loud whether it scared them.",
+  "inst": [
+   {
+    "stem": "2025_03_04_RL_FirstTimeConversations_Prospect_Rob_Tony_Artisan_Buildconstruct_FT",
+    "coach": "RL",
+    "company": "Artisan Buildconstruct",
+    "t": "5:38",
+    "sec": 338,
+    "quote": "So the number that I wanted to try to ROI is 42,000. And that's for a year.",
+    "note": "Six minutes into a 51-minute call."
+   },
+   {
+    "stem": "2023_11_20_RL_Brightstar_Prospect_Loren_SalesCall_Pre",
+    "coach": "RL",
+    "company": "Brightstar",
+    "t": "21:24",
+    "sec": 1284,
+    "quote": "So if we wanted to, again, 45 minutes, everybody puts the time in. Your price on that is 97.50.",
+    "note": "Says the number and stops talking."
+   },
+   {
+    "stem": "2023_09_11_AP_StandardElectric_Prospect_Yes_No_Call_Pre",
+    "coach": "AP",
+    "company": "Standard Electric",
+    "t": "11:07",
+    "sec": 667,
+    "quote": "If we send them across the hall for some lab work, and depending upon the number of people, it's $250 a person and $2,500 for the overview.",
+    "note": "No preamble, no 'it depends.'"
+   },
+   {
+    "stem": "2024_03_25_ST_FirstTimeConversations_Prospect_Armin_Apera_AI_NA",
+    "coach": "ST",
+    "company": "Apera AI",
+    "t": "12:04",
+    "sec": 724,
+    "quote": "For a group this size, it would be hourly. Typically it's a thousand an hour. So if we're working 90 minutes, that would be 1500 a month.",
+    "note": "Answering a direct question flatly."
+   },
+   {
+    "stem": "2026_02_17_AP_CNH_Prospect_Morgan_James_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "CNH Industrial",
+    "t": "9:29",
+    "sec": 569,
+    "quote": "Two days, Lebanon. It'll be 20 grand for us to do that, so factor that part in.",
+    "note": "Nobody had asked."
+   },
+   {
+    "stem": "2024_05_14_ST_FirstTimeConversations_Prospect_Renne_Marquee_Staffing_Convo_NA",
+    "coach": "ST",
+    "company": "Marquee Staffing",
+    "t": "50:38",
+    "sec": 3038,
+    "quote": "So budget wise, are those scary numbers, doable?",
+    "note": "Names the discomfort himself."
+   },
+   {
+    "stem": "2024_08_28_ST_FirstTimeConversations_Prospect_Doug_OMA_FTC_NA",
+    "coach": "ST",
+    "company": "OMA",
+    "t": "11:06",
+    "sec": 666,
+    "quote": "And you guys are good with pricing everything I sent over?",
+    "note": "One flat question; 'go ahead and invoice me.'"
+   }
+  ]
+ },
+ {
+  "id": "price-is-scope",
+  "label": "Turning the price question into a scoping question",
+  "cat": "money",
+  "desc": "The mirror image of the flat number: when price is asked too early, the coach refuses — but reframes rather than stalls. The answer is always that the number depends on something not yet known, and the thing not yet known is the reason the next meeting has to happen. Done badly this sounds cagey; done well it makes the sequence the prospect's idea. Worth studying alongside the calls where the coach caved and priced it anyway.",
+  "variants": "Aaron credits the prospect's transparency and trades his own, then answers with a scoping variable rather than a range. Shad makes the next conversation the condition for the number. Rob flips it back as a question about volume and will not let the prospect do the per-unit math for him.",
+  "inst": [
+   {
+    "stem": "2023_03_10_AP_Alro_Prospect_Amy_Steel_6y7m",
+    "coach": "AP",
+    "company": "PeopleReady",
+    "t": "25:43",
+    "sec": 1543,
+    "quote": "Amy, you've been very transparent, so I love the transparency, I'll be very transparent back. It's really based upon how much time and handholding and effort is required on our end versus what you guys handle.",
+    "note": "Refuses, while crediting her openness."
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Taralu_Geo_Temps_FTC_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "19:20",
+    "sec": 1160,
+    "quote": "Those are the big areas we can help. Now, in terms of cost, time — that's really what would need to happen: we have to have a next discussion with him, anybody else that would need to be involved. And then I'd be able to say, based on this, here's what it would take time-wise.",
+    "note": "Makes the price the reason to meet again."
+   },
+   {
+    "stem": "2024_08_08_ST_FirstTimeConversations_Prospect_Carlos_Real_Fund_FTC_NA",
+    "coach": "ST",
+    "company": "PG Service Group",
+    "t": "8:14",
+    "sec": 494,
+    "quote": "Generally from here we set a longer conversation, 45 minutes to an hour, and that's where we really get into: here's where we're at, here's where I want to get to, here's where some of the gaps are.",
+    "note": "Answers a pricing question with process."
+   },
+   {
+    "stem": "2024_11_11_RL_FirstTimeConversations_Prospect_Debra_CEO_Rushane_HR_Mgr_NA",
+    "coach": "RL",
+    "company": "Caribbean HR Solutions",
+    "t": "14:33",
+    "sec": 873,
+    "quote": "Well, how many do you know? Like, what would it look like? Do you have three roles, three different companies? Can you get me in range at all?",
+    "note": "Turns a unit price back into scope."
+   },
+   {
+    "stem": "2024_09_09_RL_FirstTimeConversations_Prospect_Tyler_FTC_NA",
+    "coach": "RL",
+    "company": "Baseball hitting academy",
+    "t": "21:09",
+    "sec": 1269,
+    "quote": "Hey, Tyler, it's a great question. We have a couple different programs. Would you mind if we figured out if we could help him first, and then we could talk about what that looks like?",
+    "note": "Permission-based sequencing, taught to a rep."
+   },
+   {
+    "stem": "2024_07_22_ST_FirstTimeConversations_Prospect_Emily_Atria_Consulting_FTC_NA",
+    "coach": "ST",
+    "company": "Atria Consulting",
+    "t": "30:45",
+    "sec": 1845,
+    "quote": "Can't tell you without us talking further, because I don't know exactly what all we would help you on. Same thing for the cost.",
+    "note": "Holds it back — then prices it anyway."
+   },
+   {
+    "stem": "2025_01_24_AP_PublicMediaApps_Prospect_Peter_Colin_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Public Media Apps",
+    "t": "1:00:10",
+    "sec": 3610,
+    "quote": "So I'll be happy to answer that. Do you want us to help you?",
+    "note": "Spends seven minutes on commitment first."
+   }
+  ]
+ },
+ {
+  "id": "no-contract",
+  "label": "Taking the commitment risk off the table",
+  "cat": "money",
+  "desc": "Asked how long they are signing up for, the coach removes the term entirely: no agreement, no paperwork, fire us whenever. The objection they are killing is not price, it is being trapped. Each coach replaces the contract with something better — a retention statistic, a mutual exit, a stated condition under which they themselves would stop — so the absence of a term reads as confidence rather than desperation.",
+  "variants": "Brian names the stopping condition as his own standard: when you show up with nothing to talk about, we stop. Aaron substitutes an average client tenure for a term. Rob makes the exit mutual and justifies it with evidence — the four times a contract didn't help him collect — and is also the one who refuses to give a guarantee at all.",
+  "inst": [
+   {
+    "stem": "2025_01_23_BK_FirstTimeConversations_Prospect_Matt_Iconic_insurance_Founder_FTC",
+    "coach": "BK",
+    "company": "Iconic Insurance",
+    "t": "47:44",
+    "sec": 2864,
+    "quote": "I don't do six months, I don't do one year, I don't do one month. There's zero commitment. There's no paperwork, there's no commitment.",
+    "note": "Removes every exit objection at once."
+   },
+   {
+    "stem": "2025_01_24_AP_PublicMediaApps_Prospect_Peter_Colin_First_Time_Conversation_Pre",
+    "coach": "AP",
+    "company": "Public Media Apps",
+    "t": "1:24:02",
+    "sec": 5042,
+    "quote": "We don't do agreements, Pete, so you can fire us at any time. Just so you know, we send invoices until you say stop. Just be warned, people get addicted — our average client is with us 4.8 years.",
+    "note": "Swaps a term for a retention number."
+   },
+   {
+    "stem": "2025_03_04_RL_FirstTimeConversations_Prospect_Rob_Tony_Artisan_Buildconstruct_FT",
+    "coach": "RL",
+    "company": "Artisan Buildconstruct",
+    "t": "45:16",
+    "sec": 2716,
+    "quote": "I don't do binding contracts, because number one, if someone else wants out, I also want out. And the four times in the last eight years where someone owed me money, the contract didn't help.",
+    "note": "Justified with evidence, not generosity."
+   },
+   {
+    "stem": "2024_08_09_RL_FirstTimeConversations_Prospect_Evan_Oyvl_io_FTC_Nashville_NA",
+    "coach": "RL",
+    "company": "OYVL",
+    "t": "39:56",
+    "sec": 2396,
+    "quote": "People don't sign long term agreements with us out of the gate, but we end up with long term clients. Every month when we are meeting together and telling each other the truth about how it's going, you're like, yes, this was another good month.",
+    "note": "Answers 'how long do I budget you for?'"
+   },
+   {
+    "stem": "2024_05_29_RL_FirstTimeConversations_Prospect_Evan_Reese_Ovyl_Studio_Sales_NA",
+    "coach": "RL",
+    "company": "Ovyl",
+    "t": "11:52",
+    "sec": 712,
+    "quote": "I'm not a believer in guarantees. I'm really skeptical of people who want large guarantees, because large guarantees oftentimes lower the glass ceiling.",
+    "note": "Takes a position that costs him nothing."
+   }
+  ]
+ },
+ {
+  "id": "ask-for-the-date",
+  "label": "Asking plainly for the date",
+  "cat": "next",
+  "desc": "No recap, no summary, no 'does that make sense' — the coach asks when they are talking again and then puts a real slot on it. Where the prospect is not ready, the same move becomes a dated follow-up rather than a vague 'reach out': a specific day named out loud, with the prospect's agreement, and the invite sent on the call. It is the single cheapest act that keeps a deferred opportunity from evaporating.",
+  "variants": "Aaron and Rob use the four-word version and then offer two slots rather than a scheduling link. Shad is the one to study for the stalled version — he converts 'a couple of weeks' into a calendar date, offers three times, and takes the chasing obligation onto himself.",
+  "inst": [
+   {
+    "stem": "2023_03_10_AP_Alro_Prospect_Amy_Steel_6y7m",
+    "coach": "AP",
+    "company": "PeopleReady",
+    "t": "23:42",
+    "sec": 1422,
+    "quote": "When would you like to talk again?",
+    "note": "Four words, no pitch."
+   },
+   {
+    "stem": "2023_11_20_RL_Brightstar_Prospect_Loren_SalesCall_Pre",
+    "coach": "RL",
+    "company": "Brightstar",
+    "t": "30:16",
+    "sec": 1816,
+    "quote": "So when do you want to talk again?",
+    "note": "Invite sent while still on the line."
+   },
+   {
+    "stem": "2023_10_03_RL_FirstTimeConversations_Prospect_Intro_Call_Douglas_Peterson_10_NA",
+    "coach": "RL",
+    "company": "Crestcom",
+    "t": "14:32",
+    "sec": 872,
+    "quote": "Next Tuesday at eight or next Wednesday at nine.",
+    "note": "Two options, no calendar ping-pong."
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Maureen_GW_Berkheimer_NA",
+    "coach": "ST",
+    "company": "GW Berkheimer",
+    "t": "18:17",
+    "sec": 1097,
+    "quote": "If I could suggest May 15, I've got some time available at either 11:30 or 12 or between one to 2:30. That way you can say, hey, yep, we're at a good place where it makes sense, I've talked to him, it makes sense to schedule that next meeting. Or, hey, we're not, and that would be fine.",
+    "note": "Slots offered to a stalled prospect."
+   },
+   {
+    "stem": "2024_03_25_ST_FirstTimeConversations_Prospect_Armin_Apera_AI_NA",
+    "coach": "ST",
+    "company": "Apera AI",
+    "t": "15:37",
+    "sec": 937,
+    "quote": "I'm just going to put a reminder — if it's like 15 April and I haven't heard from you, I'll reach out by then. Does that sound good?",
+    "note": "Turns 'a couple of weeks' into a date."
+   },
+   {
+    "stem": "2024_09_03_ST_FirstTimeConversations_Prospect_Ann_Quade_Circles_FTC_NA",
+    "coach": "ST",
+    "company": "Quaid",
+    "t": "15:21",
+    "sec": 921,
+    "quote": "Just so I can keep time in my head — if I haven't heard from you, when's your next meeting and when would be good to touch base?",
+    "note": "She reads out four meeting dates."
+   },
+   {
+    "stem": "2024_08_21_ST_FirstTimeConversations_Prospect_Amy_Keystone_Coop_FTC_NA",
+    "coach": "ST",
+    "company": "Keystone Cooperative",
+    "t": "28:32",
+    "sec": 1712,
+    "quote": "Is there a time next week or whenever you'll talk to him? If I haven't heard from you, that you and I can talk and you just tell me — either nope, we're not, or yep, makes sense, let's schedule some time.",
+    "note": "Buys permission to chase."
+   }
+  ]
+ },
+ {
+  "id": "dated-yes-or-no",
+  "label": "The scheduled yes-or-no",
+  "cat": "next",
+  "desc": "Instead of a next meeting that is another conversation, the coach books a decision: a time on the calendar at which the prospect says yes or no, with the no explicitly allowed and sometimes with a debrief attached. The move does two jobs — it stops a deal drifting through follow-ups, and it makes the next meeting cheap to agree to, because agreeing to it is not agreeing to buy. The strongest versions also name what will have happened by then, which turns the date into a behavioural test.",
+  "variants": "Shad builds it into the description of the next meeting, so the right to say no arrives as part of the invitation. Rob's fail-safe version is the sharpest: if nothing has happened in two weeks, we both agree it is never happening. Aaron hands the either/or back and, on this one call, does not pin a date to it.",
+  "inst": [
+   {
+    "stem": "2024_08_15_ST_FirstTimeConversations_Prospect_Real_Fund_PG_Service_Group_NA",
+    "coach": "ST",
+    "company": "PG Service Group",
+    "t": "42:08",
+    "sec": 2528,
+    "quote": "Here's my one ask. Can we just have a time on the calendar, whether it's by the end of the month or start of next, where we talk and you tell me, hey, here's where we're at. And if you guys went another direction, no harm, no foul, and I ask questions. And if you didn't, then we figure out next steps from there. Does that sound fair?",
+    "note": "Carlos: 'I wouldn't have it any other way.'"
+   },
+   {
+    "stem": "2024_09_24_RL_FirstTimeConversations_Prospect_Rob_Keating_Dave_Gold_Eagle_NA",
+    "coach": "RL",
+    "company": "Gold Eagle (HVAC / home services)",
+    "t": "52:05",
+    "sec": 3125,
+    "quote": "Do you guys want to put a fail-safe conversation on the calendar — it's a week or two from now, and if you show up to that conversation and you haven't had time to talk about this thing yet, then we could probably look at each other and go, man, if it hasn't happened in two weeks, probably not going to happen. No big deal.",
+    "note": "A dated behavioural test, either way."
+   },
+   {
+    "stem": "2024_03_27_ST_FirstTimeConversations_Prospect_Taralu_Geo_Temps_FTC_NA",
+    "coach": "ST",
+    "company": "Geo Temps",
+    "t": "23:38",
+    "sec": 1418,
+    "quote": "We may make the decision at the end of that, hey, it doesn't make sense, doesn't work for us. No harm, no foul. You always know for the future. Or it does, and here's what the next steps would need to be.",
+    "note": "Sets meeting two's decision before meeting one ends."
+   },
+   {
+    "stem": "2024_09_03_ST_FirstTimeConversations_Prospect_Matt_Operation_Hired_Hiring_Help_N",
+    "coach": "ST",
+    "company": "Operation Hired (veteran-owned staffing and recruiting)",
+    "t": "19:03",
+    "sec": 1143,
+    "quote": "At the end of that conversation, if you go, hey, got some good stuff here, I'll run with it on my own — great. You go, hey, I want your help, we'll talk through what that looks like.",
+    "note": "Both outcomes named before booking."
+   },
+   {
+    "stem": "2024_07_22_ST_FirstTimeConversations_Prospect_Emily_Atria_Consulting_FTC_NA",
+    "coach": "ST",
+    "company": "Atria Consulting",
+    "t": "26:19",
+    "sec": 1579,
+    "quote": "If we get to the end of it, Emily, it's — based on what you're offering, it just doesn't work for us, no harm no foul, part friends. Or if it does, then here's the next step we would take.",
+    "note": "Textbook framing — but no date asked."
+   },
+   {
+    "stem": "2025_07_10_AP_FischerHomes_Prospect_Emily_First_Time_Conversation_VP_1y6m",
+    "coach": "AP",
+    "company": "Fischer Homes",
+    "t": "1:00:08",
+    "sec": 3608,
+    "quote": "You share either A, I have some more questions I want answered, or B, I got it, makes sense, here's how many hires we want, let's go.",
+    "note": "Hands the decision back without a date."
+   }
+  ]
+ }
+]
